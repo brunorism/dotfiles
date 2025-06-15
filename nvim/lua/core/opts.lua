@@ -26,7 +26,6 @@ vim.opt.pumblend = 25
 vim.opt.relativenumber = true
 vim.opt.scrolloff = 5
 vim.opt.shiftwidth = 0
-vim.opt.showmode = false
 vim.opt.sidescrolloff = 5
 vim.opt.signcolumn = "yes"
 vim.opt.smartcase = true

@@ -2,9 +2,7 @@ require("core.opts")
 require("core.maps")
 
 vim.api.nvim_set_hl(0, "Normal", { bg = "None" })
-vim.api.nvim_set_hl(0, "NormalNc", { bg = "None" })
 vim.api.nvim_set_hl(0, "NormalFloat", { bg = "None" })
-vim.api.nvim_set_hl(0, "NormalFloatNc", { bg = "None" })
 
 -- Auto commands
 vim.api.nvim_create_autocmd("TextYankPost", {
